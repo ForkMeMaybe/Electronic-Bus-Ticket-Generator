@@ -1,0 +1,1 @@
+for (i = 0, j = 0; i < buses->bus_seats; i++)
